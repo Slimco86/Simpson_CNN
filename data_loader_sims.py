@@ -2,7 +2,7 @@
 """
 Created on Sat Sep  8 17:18:27 2018
 
-@author: andrii
+@author: ievgen
 """
 
 import os 
